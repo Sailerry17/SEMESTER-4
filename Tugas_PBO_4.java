@@ -71,7 +71,7 @@ class BankBCA extends Bank {
     }
 }
 
-// Main Class (HARUS sama dengan nama file)
+// Main Class
 public class Tugas_PBO_4 {
     public static void main(String[] args) {
 
